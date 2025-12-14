@@ -1,6 +1,6 @@
 # Thermal Drift
 
-VCV Rack modules exploring chaos, complexity, and slow evolution.
+VCV Rack modules coded with the help of Claude 4.5 Opus. 
 
 ## Modules
 
